@@ -20,3 +20,8 @@ https://example.com/
 then run:
 
 `php pals.php > humans.json`
+
+---
+
+humans.json generator in PHP by Matt Lee (https://mat.tl) is marked CC0 1.0. To view a copy of this mark, visit https://creativecommons.org/publicdomain/zero/1.0/
+
