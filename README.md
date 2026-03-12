@@ -1,2 +1,22 @@
-# humans-json-php
-humans.json generator in PHP
+# humans.json generator in PHP
+
+Make a list of your pals websites and the date (optional) you're endorsing them
+
+i.e. make a file called pals.txt
+
+```
+http://info.cern.ch/|1990-12-20
+https://wjsullivan.net/|2006-12-06
+https://mako.cc|2007-07-04
+https://evanp.me/|2008-02-21
+https://mjg59.dreamwidth.org|2009-12-20
+https://tantek.com/|2010-07-18
+https://aaronpk.com/|2010-07-18
+https://artlung.com/|2024-08-22
+https://neatnik.net|2026-03-11
+https://example.com/
+```
+
+then run:
+
+`php pals.php > humans.json`
