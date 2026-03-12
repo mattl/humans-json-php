@@ -1,5 +1,7 @@
 # human.json generator in PHP
 
+Want to say that you know some humans? This project has you covered!
+
 1. Get your own website (See: https://indieweb.org/Getting_Started)
 2. Edit pals.php to include your own website.
 3. Have a good long think about all the human beings you know
@@ -27,6 +29,10 @@ Now make sure that human.json is available on your website somewhere (ie. the ro
 `<link rel="human-json" href="/human.json">`
 
 Making sure that human.json is indeed at that location.
+
+## What?
+
+This is all to support the https://codeberg.org/robida/human.json project.
 
 ---
 
