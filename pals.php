@@ -4,7 +4,7 @@
 // To view a copy of this mark, visit https://creativecommons.org/publicdomain/zero/1.0/
 
 $pals = file('pals.txt');
-$me = "https://mat.tl/";
+$me = "https://example.com/";
 
 error_reporting("2048");
 
