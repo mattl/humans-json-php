@@ -34,6 +34,8 @@ Making sure that human.json is indeed at that location.
 
 This is all to support the https://codeberg.org/robida/human.json project.
 
+Personally I think a format for humans should not be in JSON, a format that is quite unlikely to be written by humans, but I enjoyed writing this quickly and releasing it into the public domain (via the CC0 deed)
+
 ## Why am I not on *your* human.json file, eh?
 
 Not being on the example list does not mean you're not my pal, FYI. 
